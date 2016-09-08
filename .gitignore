@@ -1,0 +1,6 @@
+.idea
+*.pyc
+*.pyo
+*.md5
+*.log
+
